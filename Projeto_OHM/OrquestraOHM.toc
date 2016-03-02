@@ -1,0 +1,24 @@
+\changetocdepth {4}
+\select@language {brazil}
+\select@language {brazil}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{Resumo}{5}{chapter*.2}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Projeto}}{7}{chapter.1}
+\contentsline {section}{\numberline {1.1}Cria\IeC {\c c}\IeC {\~a}o musical}{7}{section.1.1}
+\contentsline {section}{\numberline {1.2}Tecnologias livres}{7}{section.1.2}
+\contentsline {section}{\numberline {1.3}Sonologia}{7}{section.1.3}
+\contentsline {section}{\numberline {1.4}Tecnologias m\IeC {\'o}veis}{8}{section.1.4}
+\contentsline {section}{\numberline {1.5}Pr\IeC {\'a}tica de laborat\IeC {\'o}rio de ac\IeC {\'u}stica e computa\IeC {\c c}\IeC {\~a}o aplicados em luteria}{8}{section.1.5}
+\contentsline {section}{\numberline {1.6}Publica\IeC {\c c}\IeC {\~o}es}{8}{section.1.6}
+\contentsline {section}{\numberline {1.7}Interdisciplinaridade e metodologias de trabalho coletivo}{9}{section.1.7}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Justificativa}}{11}{chapter.2}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Metodologias}}{13}{chapter.3}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Objetivos}}{15}{chapter.4}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{\uppercase {Refer\^encias}}{17}{section*.4}
+\vspace {\cftbeforechapterskip }
